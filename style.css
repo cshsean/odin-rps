@@ -1,0 +1,20 @@
+* {
+    padding: 0px;
+    margin: 0px
+}
+
+img {
+    width: 100px;
+}
+
+.rpsheading {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.images {
+    display:flex;
+    justify-content: center;
+    gap: 30px;
+}
